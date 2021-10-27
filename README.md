@@ -1,3 +1,7 @@
 # Demo 2
 
-Some text!
+Some texts.
+
+## Local Development
+
+1. Open index.html in your browse.
